@@ -1,0 +1,21 @@
+{
+  "name": "react-getstart",
+  "version": "0.0.0",
+  "homepage": "https://github.com/js-liux/react-getstart",
+  "authors": [
+    "liuxing <shanelau1021@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "react-dom": "~0.1.0",
+    "react": "~0.14.0"
+  }
+}
